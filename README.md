@@ -5,6 +5,4 @@
 # Ekran görüntüsü
 
 
-# ![](bmw.gif)# Bmw-Cars
-# BMW
-# Bmw-Cars
+# ![](bmw.gif)
